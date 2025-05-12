@@ -1,0 +1,13 @@
+nltk==3.9.1
+neo4j
+numpy
+faiss-cpu
+scipy
+torch
+torchvision
+pillow
+tqdm
+networkx
+wikipedia-api
+jsonlib
+itertools

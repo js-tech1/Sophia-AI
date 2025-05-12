@@ -96,3 +96,67 @@ This project is intended for research purposes and is licensed under the [MIT Li
 ---
 
 Feel free to ask for more details or a specific section expansion!
+
+## 🛠️ How to Run
+
+### 1. Start the System
+Run the main script:
+```bash
+python 12-05-25 V1.py
+```
+
+### 2. Activate the System
+Once the console is ready, type:
+```
+ACTIVATE
+```
+This initializes the system’s self-awareness and cognitive processes.
+
+---
+
+## 📂 File-based Training
+
+### 3. Load a Training File
+To load training data from a file (e.g., SQuAD JSON):
+```
+LOAD filename.json
+```
+
+### 4. Train the Model
+After loading the file:
+```
+TRAIN
+```
+
+---
+
+## ✍️ Manual Training
+
+### 5. Start Manual Training
+Type:
+```
+TRAIN MANUAL
+```
+
+### 6. Enter Q&A Pairs
+Enter your question and answer in this format:
+```
+question || answer
+```
+Example:
+```
+What is AI? || Artificial Intelligence is the simulation of human intelligence in machines.
+```
+
+### 7. Finish Manual Training
+After adding all Q&A pairs, type:
+```
+done
+```
+Then run:
+```
+TRAIN
+```
+
+---
+

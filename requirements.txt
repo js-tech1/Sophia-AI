@@ -9,4 +9,4 @@ pillow
 tqdm
 networkx
 wikipedia-api
-jsonlib
+

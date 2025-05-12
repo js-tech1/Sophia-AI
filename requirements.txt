@@ -10,4 +10,3 @@ tqdm
 networkx
 wikipedia-api
 jsonlib
-itertools
